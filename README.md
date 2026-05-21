@@ -15,6 +15,7 @@ Recently, I've worked on AI Agent Assistant features, LLM prompt engineering, AI
 
 ### Current focus
 
+- Building **Horizonline**, a cinematic offline-first flight companion for iOS and Android that turns flights into immersive 3D journeys, answers questions about the world below and generates shareable post-flight reels
 - Java, Spring Boot, Kafka and Kubernetes
 - Applied AI, LLM evaluation and RAG workflows
 - Python, prototyping and product-focused software
