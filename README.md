@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Patrick Murray</h1>
+<h1 align="center">Hi, I'm Paddy Murray</h1>
 <h3 align="center">Backend Software Engineer focused on Java, microservices and applied AI</h3>
 
 <div align="center">
